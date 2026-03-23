@@ -4,7 +4,7 @@
 -       Linux OS,
 -       Web 3 and blockchains,
 -       Python programing language,
--       Cyber Security.    
+-       Cybersecurity.    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
